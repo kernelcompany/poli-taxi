@@ -1,0 +1,29 @@
+{
+  "name": "poli-taxi",
+  "description": "Landing page for taxicab stand",
+  "main": "server.js",
+  "authors": [
+    "kernel"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "taxi",
+    "landing",
+    "page",
+    "taxicab",
+    "stand"
+  ],
+  "homepage": "https://github.com/kernelcompany/poli-taxi",
+  "moduleType": [
+    "amd"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/js/vendor",
+    "test",
+    "tests"
+  ]
+}

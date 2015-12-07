@@ -1,0 +1,37 @@
+{
+  "name": "poli-taxi",
+  "version": "1.0.0",
+  "description": "Landing page for taxicab stand",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kernelcompany/poli-taxi.git"
+  },
+  "keywords": [
+    "taxi",
+    "landing",
+    "page",
+    "taxicab",
+    "stand"
+  ],
+  "author": "kernel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kernelcompany/poli-taxi/issues"
+  },
+  "homepage": "https://github.com/kernelcompany/poli-taxi#readme",
+  "dependencies": {
+    "koa": "^1.1.2",
+    "koa-static": "^1.5.2"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^1.7.0",
+    "less-loader": "^2.2.2",
+    "webpack": "^1.12.9",
+    "webpack-dev-server": "^1.14.0"
+  }
+}
